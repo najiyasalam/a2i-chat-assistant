@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A2I Club Assistant</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>What's on your mind today?🚀</h2>
+    <div class="chat-container">
+        <div class="chat-header">
+            <i class="fas fa-robot"></i>
+            <span>I'm the A2I Club's Assistant</span>
+            <div style="flex: 1"></div>
+            <span class="badge">🟢 Online</span>
+        </div>
+        <div id="chat" class="chat-body">
+            <div class="message bot">
+                <strong>Welcome to A2I Club BY CMLI! ✨</strong> Let's Clear Your Doubts! <br><br>I can Help You With:<br><br>
+                <ul>
+                    <li>🔥 Club activities & events</li>
+                    <li>🎓 Workshops & how to join</li>
+                    <li>🏛️ CMLI Centre details</li>
+                    <li>📚 General Institute queries</li>
+                    <li>🌍 Any knowledge base queries</li>
+                </ul>
+                <div class="message-time">Just now</div>
+            </div>
+        </div>
+    </div>
+    <div class="input-area">
+        <input type="text" id="userInput" placeholder="Type your question here..." autocomplete="off" />
+        <button id="sendButton">
+            <i class="fas fa-paper-plane"></i>
+        </button>
+    </div>
+    <div id="typingIndicator" class="typing-indicator">
+        <span>Assistant is typing</span>
+        <div class="typing-dots">
+            <div class="typing-dot"></div>
+            <div class="typing-dot"></div>
+            <div class="typing-dot"></div>
+        </div>
+    </div>
+    <div id="errorMessage" class="error-message"></div>
+    <script src="script.js"></script>
+</body>
+</html>

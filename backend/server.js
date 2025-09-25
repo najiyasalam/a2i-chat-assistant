@@ -41,6 +41,24 @@ About the A2I Club:
 - Club website: https://sites.google.com/avinuty.ac.in/cmli/a2i-club
 - Centre website: https://sites.google.com/avinuty.ac.in/cmli/
 
+Club Coordinators:
+- Dr.P.Subashini,
+Professor,
+Department of Computer Science,
+subashini_cs@avinuty.ac.in
+Mobile Number :- 9442271971
+
+
+- Dr.M.Krishnaveni,
+Assistant Professor,
+Department of Computer Science,
+krishnaveni_cs@avinuty.ac.in
+Mobile Number :- 9442571571
+
+Club President:
+- Vishnu Gopika
+Master of Science in Artificial Intelligence
+
 Your Role:
 1. Answer questions about the A2I Club (activities, events, how to join, objectives).
 2. Provide information about the Institute and the CMLI Centre when asked.
